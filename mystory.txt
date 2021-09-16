@@ -1,2 +1,4 @@
 This is the beginning of learning git command line.
 By John Dunckel
+
+I jumped so high I tasted the clouds.
